@@ -1,4 +1,4 @@
-# Window Design Strategies for Energy Efficiency & Indoor Environmental Quality
+# Numerical Investigation of Window Design Strategies for Energy Efficiency and Thermal–Visual Comfort in Buildings
 
 This repository contains the simulation framework, methodology, and findings for a case study on window design optimization in hot and humid climates, specifically focusing on Bangladesh. The research evaluates the trade-offs between solar heat gain, cooling loads, and visual comfort across different geometric window configurations.
 
